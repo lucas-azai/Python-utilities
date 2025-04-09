@@ -8,4 +8,6 @@ Repositório com scripts desenvolvidos para facilitar tarefas técnicas do dia a
 
 ```bash
 /
-├── automation/         # Scripts de automação e tarefas recorrentes
+├── automation/                     # Scripts de automação e tarefas recorrentes
+	├── PDFtoEXCEL/					# Extrair dados do PDF e converter em Excel
+	├── UnificarPDFeIMAGENS/		# Unificar Pdfs e Imagens em um unico arquivo
